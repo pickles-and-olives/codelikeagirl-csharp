@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/melissamcfadzien/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache

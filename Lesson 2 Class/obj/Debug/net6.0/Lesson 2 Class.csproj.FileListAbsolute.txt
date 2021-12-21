@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/bin/Debug/net6.0/Lesson 2 Class
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/bin/Debug/net6.0/Lesson 2 Class.deps.json
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/bin/Debug/net6.0/Lesson 2 Class.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/bin/Debug/net6.0/Lesson 2 Class.dll
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/bin/Debug/net6.0/ref/Lesson 2 Class.dll
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/bin/Debug/net6.0/Lesson 2 Class.pdb
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/Lesson 2 Class.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/Lesson 2 Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/Lesson 2 Class.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/Lesson 2 Class.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/Lesson 2 Class.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/Lesson 2 Class.dll
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/ref/Lesson 2 Class.dll
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/Lesson 2 Class.pdb
+/Users/melissamcfadzien/Desktop/C#/Lesson 2 Class/obj/Debug/net6.0/Lesson 2 Class.genruntimeconfig.cache
