@@ -17,9 +17,9 @@ adjective2 = Console.ReadLine();
 Console.Write("Enter one more adjective: ");
 adjective3 = Console.ReadLine();
 
-Console.WriteLine($"My cat is a very " + adjective1 + " creature.");
-Console.WriteLine($"She loves to " + verb + " all day, with no regard to " + pronoun + ".");
-Console.WriteLine($"But, even when she is " + adjective2 + ", she is still totally " + adjective3 + ".");
+Console.Write($"My cat is a very " + adjective1 + " creature. ");
+Console.Write($"She loves to " + verb + " all day, with no regard to " + pronoun + ". ");
+Console.Write($"But, even when she is " + adjective2 + ", she is still totally " + adjective3 + ". ");
 
 Console.ReadLine();
 
