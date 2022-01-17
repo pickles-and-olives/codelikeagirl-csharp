@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/bin/Debug/net6.0/Lesson 4 Activity Extension
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/bin/Debug/net6.0/Lesson 4 Activity Extension.deps.json
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/bin/Debug/net6.0/Lesson 4 Activity Extension.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/bin/Debug/net6.0/Lesson 4 Activity Extension.dll
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/bin/Debug/net6.0/ref/Lesson 4 Activity Extension.dll
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/bin/Debug/net6.0/Lesson 4 Activity Extension.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/Lesson 4 Activity Extension.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/Lesson 4 Activity Extension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/Lesson 4 Activity Extension.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/Lesson 4 Activity Extension.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/Lesson 4 Activity Extension.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/Lesson 4 Activity Extension.dll
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/ref/Lesson 4 Activity Extension.dll
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/Lesson 4 Activity Extension.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 4/Lesson 4 Activity Extension/obj/Debug/net6.0/Lesson 4 Activity Extension.genruntimeconfig.cache
