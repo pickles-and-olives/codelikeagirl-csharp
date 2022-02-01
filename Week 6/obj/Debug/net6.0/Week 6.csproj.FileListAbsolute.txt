@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/Week 6/bin/Debug/net6.0/Week 6
+/Users/melissamcfadzien/Desktop/C#/Week 6/bin/Debug/net6.0/Week 6.deps.json
+/Users/melissamcfadzien/Desktop/C#/Week 6/bin/Debug/net6.0/Week 6.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Week 6/bin/Debug/net6.0/Week 6.dll
+/Users/melissamcfadzien/Desktop/C#/Week 6/bin/Debug/net6.0/ref/Week 6.dll
+/Users/melissamcfadzien/Desktop/C#/Week 6/bin/Debug/net6.0/Week 6.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/Week 6.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/Week 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/Week 6.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/Week 6.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/Week 6.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/Week 6.dll
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/ref/Week 6.dll
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/Week 6.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 6/obj/Debug/net6.0/Week 6.genruntimeconfig.cache
