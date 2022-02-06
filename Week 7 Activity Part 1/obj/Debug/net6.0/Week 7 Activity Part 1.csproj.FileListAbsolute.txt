@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/bin/Debug/net6.0/Week 7 Activity Part 1
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/bin/Debug/net6.0/Week 7 Activity Part 1.deps.json
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/bin/Debug/net6.0/Week 7 Activity Part 1.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/bin/Debug/net6.0/Week 7 Activity Part 1.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/bin/Debug/net6.0/ref/Week 7 Activity Part 1.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/bin/Debug/net6.0/Week 7 Activity Part 1.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/Week 7 Activity Part 1.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/Week 7 Activity Part 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/Week 7 Activity Part 1.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/Week 7 Activity Part 1.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/Week 7 Activity Part 1.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/Week 7 Activity Part 1.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/ref/Week 7 Activity Part 1.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/Week 7 Activity Part 1.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 7/Activity Week 7/Week 7 Activity Part 1/obj/Debug/net6.0/Week 7 Activity Part 1.genruntimeconfig.cache
