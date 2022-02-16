@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/BookClub.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/BookClub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/BookClub.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/BookClub.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/BookClub.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/bin/Debug/net6.0/BookClub
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/bin/Debug/net6.0/BookClub.deps.json
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/bin/Debug/net6.0/BookClub.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/bin/Debug/net6.0/BookClub.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/bin/Debug/net6.0/ref/BookClub.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/bin/Debug/net6.0/BookClub.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/BookClub.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/ref/BookClub.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/BookClub.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub/obj/Debug/net6.0/BookClub.genruntimeconfig.cache
