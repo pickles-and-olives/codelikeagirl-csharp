@@ -2,23 +2,31 @@ namespace ExamCentre.Models
 {
     public class Exam
     {
-        public string? Subject {get; set;}
-        public int studentScore {get; set;}
+    public string? Subject { get; set; }
+    public Exam(string subject)
+    {
+        Subject = subject;
+    }
 
-        public Exam(string subject)
-        {
-            Subject = Subject;
-            
-        }
-
-        public void addStudent(int studentID)
-        {
-            studentID = 0;
-        }
-        public void markPaper(int studentID, int studentScore)
-        {
-        
-        }
+    public class Score
+    {
+        public int StudentScore { get; set; }
+        public int StudentID { get; set; }
+    
+    public Score(int studentID, int score)
+    {
+        StudentScore = score;
+        StudentID = studentID;
+    }
+    // static void MarkPaper(int StudentID, int StudentScore)
+    // {   
+    //     var student = StudentID;
+    //     student.AddScore(StudentScore);
 
     }
-}
+    }
+    }
+
+
+
+
