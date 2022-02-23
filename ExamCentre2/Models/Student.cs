@@ -5,18 +5,19 @@ namespace ExamCentre2.Models
         private string? _Name { get; set; }
         public int CandidateNumber { get; set; }
         public int Score { get; set; }
-        public List<Student> Scores { get; set; }
-
-        public Student(int candidateNumber, int score)
-        {
-            CandidateNumber = candidateNumber;
-            Scores = new List<Student>{};
-        }
+        public List<int> Scores { get; set; }
         public Student(string _name, int candidateNumber)
         {
             _Name = _name;
             CandidateNumber = candidateNumber;
+            Scores = new List<int>{Score};
         }
+        public void AddScore(int score)
+        {
+            Score = score;
+            Scores.Add(score);
+        }
+
 
     }
 
