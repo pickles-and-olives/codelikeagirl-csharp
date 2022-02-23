@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/bin/Debug/net6.0/BookClub2
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/bin/Debug/net6.0/BookClub2.deps.json
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/bin/Debug/net6.0/BookClub2.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/bin/Debug/net6.0/BookClub2.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/bin/Debug/net6.0/ref/BookClub2.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/bin/Debug/net6.0/BookClub2.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/BookClub2.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/BookClub2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/BookClub2.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/BookClub2.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/BookClub2.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/BookClub2.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/ref/BookClub2.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/BookClub2.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub2/obj/Debug/net6.0/BookClub2.genruntimeconfig.cache
