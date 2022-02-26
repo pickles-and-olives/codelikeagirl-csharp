@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/bin/Debug/net6.0/ChocolateRoulette
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/bin/Debug/net6.0/ChocolateRoulette.deps.json
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/bin/Debug/net6.0/ChocolateRoulette.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/bin/Debug/net6.0/ChocolateRoulette.dll
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/bin/Debug/net6.0/ref/ChocolateRoulette.dll
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/bin/Debug/net6.0/ChocolateRoulette.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ChocolateRoulette.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ChocolateRoulette.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ChocolateRoulette.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ChocolateRoulette.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ChocolateRoulette.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ChocolateRoulette.dll
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ref/ChocolateRoulette.dll
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ChocolateRoulette.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 10/ChocolateRoulette/obj/Debug/net6.0/ChocolateRoulette.genruntimeconfig.cache
