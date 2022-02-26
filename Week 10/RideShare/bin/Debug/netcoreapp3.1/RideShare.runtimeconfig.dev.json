@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/melissamcfadzien/.dotnet/store/|arch|/|tfm|",
+      "/Users/melissamcfadzien/.nuget/packages"
+    ]
+  }
+}

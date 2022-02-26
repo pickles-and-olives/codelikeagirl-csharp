@@ -1,0 +1,14 @@
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/bin/Debug/netcoreapp3.1/RideShare
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/bin/Debug/netcoreapp3.1/RideShare.deps.json
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/bin/Debug/netcoreapp3.1/RideShare.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/bin/Debug/netcoreapp3.1/RideShare.runtimeconfig.dev.json
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/bin/Debug/netcoreapp3.1/RideShare.dll
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/bin/Debug/netcoreapp3.1/RideShare.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/obj/Debug/netcoreapp3.1/RideShare.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/obj/Debug/netcoreapp3.1/RideShare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/obj/Debug/netcoreapp3.1/RideShare.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/obj/Debug/netcoreapp3.1/RideShare.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/obj/Debug/netcoreapp3.1/RideShare.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/obj/Debug/netcoreapp3.1/RideShare.dll
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/obj/Debug/netcoreapp3.1/RideShare.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 10/RideShare/obj/Debug/netcoreapp3.1/RideShare.genruntimeconfig.cache
