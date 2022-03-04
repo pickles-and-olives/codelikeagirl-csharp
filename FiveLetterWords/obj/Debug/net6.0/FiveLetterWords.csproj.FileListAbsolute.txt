@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/FiveLetterWords/bin/Debug/net6.0/FiveLetterWords
+/Users/melissamcfadzien/Desktop/FiveLetterWords/bin/Debug/net6.0/FiveLetterWords.deps.json
+/Users/melissamcfadzien/Desktop/FiveLetterWords/bin/Debug/net6.0/FiveLetterWords.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/FiveLetterWords/bin/Debug/net6.0/FiveLetterWords.dll
+/Users/melissamcfadzien/Desktop/FiveLetterWords/bin/Debug/net6.0/ref/FiveLetterWords.dll
+/Users/melissamcfadzien/Desktop/FiveLetterWords/bin/Debug/net6.0/FiveLetterWords.pdb
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/FiveLetterWords.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/FiveLetterWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/FiveLetterWords.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/FiveLetterWords.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/FiveLetterWords.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/FiveLetterWords.dll
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/ref/FiveLetterWords.dll
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/FiveLetterWords.pdb
+/Users/melissamcfadzien/Desktop/FiveLetterWords/obj/Debug/net6.0/FiveLetterWords.genruntimeconfig.cache
