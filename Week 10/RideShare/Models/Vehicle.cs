@@ -1,5 +1,3 @@
-using System;
-
 namespace RideShare.Models
 {
 public abstract class Vehicle
