@@ -1,0 +1,15 @@
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/bin/Debug/net6.0/BookClub4
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/bin/Debug/net6.0/BookClub4.deps.json
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/bin/Debug/net6.0/BookClub4.runtimeconfig.json
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/bin/Debug/net6.0/BookClub4.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/bin/Debug/net6.0/ref/BookClub4.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/bin/Debug/net6.0/BookClub4.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/BookClub4.csproj.AssemblyReference.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/BookClub4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/BookClub4.AssemblyInfoInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/BookClub4.AssemblyInfo.cs
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/BookClub4.csproj.CoreCompileInputs.cache
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/BookClub4.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/ref/BookClub4.dll
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/BookClub4.pdb
+/Users/melissamcfadzien/Desktop/C#/Week 7/BookClub4/obj/Debug/net6.0/BookClub4.genruntimeconfig.cache
